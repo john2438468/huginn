@@ -129,6 +129,7 @@ gem 'execjs', '~> 2.7.0'
 gem 'typhoeus', '~> 1.3.1'
 gem 'uglifier', '~> 2.7.2'
 gem 'bootsnap', '>= 1.1.0', require: false
+gem 'huginn_github_notifications_agent', '~> 0.0.1'
 
 group :development do
   gem 'better_errors', '~> 1.1'
