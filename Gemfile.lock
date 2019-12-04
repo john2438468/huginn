@@ -335,6 +335,8 @@ GEM
     httpclient (2.8.3)
     huginn_agent (0.4.0)
       thor
+    huginn_github_notifications_agent (0.0.1)
+      huginn_agent
     hypdf (1.0.10)
       httmultiparty (~> 0.3)
       httparty (~> 0.13)
@@ -704,6 +706,7 @@ DEPENDENCIES
   httmultiparty (~> 0.3.16)
   httparty (~> 0.13)
   huginn_agent (~> 0.4.0)
+  huginn_github_notifications_agent
   hypdf (~> 1.0.10)
   jquery-rails (~> 4.2.1)
   json (~> 1.8.1)
